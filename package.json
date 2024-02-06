@@ -1,0 +1,17 @@
+{
+  "name": "businessmanager",
+  "version": "1.0.0",
+  "description": "Business Management Solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Skylar Brockbank",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
